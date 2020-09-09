@@ -1,17 +1,18 @@
 [
-   {
+    {
       "id": 1,
       "categoryName": "Meyve ve Sebze",
-      "imageUrl": "abc"
-     },
-   {
+      "imageUrl": ""
+    },
+    {
       "id": 2,
       "categoryName": "Kirtasiye",
-      "imageUrl": "acd"
-   },
-     {
+      "imageUrl": ""
+    },
+    {
       "id": 3,
       "categoryName": "Elektronik",
-      "imageUrl": "abc"
-   }
+      "imageUrl": ""
+    }
+    
 ]
