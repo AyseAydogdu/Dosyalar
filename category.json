@@ -1,6 +1,4 @@
-{
-
-  "categories": [
+[
     {
       "id": 1,
       "categoryName": "Meyve ve Sebze",
@@ -16,6 +14,4 @@
       "categoryName": "Elektronik",
       "imageUrl": ""
     },
-    
-  ]
-}
+]
