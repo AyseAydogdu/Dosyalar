@@ -3,16 +3,5 @@
       "id": 1,
       "categoryName": "Meyve ve Sebze",
       "imageUrl": ""
-    },
-    {
-      "id": 2,
-      "categoryName": "Kirtasiye",
-      "imageUrl": ""
-    },
-    {
-      "id": 3,
-      "categoryName": "Elektronik",
-      "imageUrl": ""
-    }
-    
+    }  
 ]
