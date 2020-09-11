@@ -1,11 +1,10 @@
-{
-  "products": [
+ [
     {
       "id": 1,
       "categoryId": 2,
       "productName": "Defter",
       "imageUrl":"",
-      "unitPrice": "8",
+      "unitPrice": "8"
       
     },
     {
@@ -13,7 +12,7 @@
       "categoryId": 1,
       "productName": "Cilek",
       "imageUrl":"",
-      "unitPrice": "4",
+      "unitPrice": "4"
       
     },
     {
@@ -21,9 +20,8 @@
       "categoryId": 3,
       "productName": "Kulaklik",
       "imageUrl":"",
-      "unitPrice": "25",
+      "unitPrice": "25"
       
-    },
+    }
     
   ]
-}
