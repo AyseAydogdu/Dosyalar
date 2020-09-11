@@ -2,5 +2,16 @@
     {
       "id": 1,
       "categoryName": "Meyve ve Sebze",
-    }  
+      "imageUrl": "images/meyve.jpg"
+    },
+    {
+      "id": 2,
+      "categoryName": "Kirtasiye",
+      "imageUrl": "images/kirtasiye.png"
+    },
+    {
+      "id": 3,
+      "categoryName": "Elektronik",
+      "imageUrl": "images/elektronik.jpg"
+    },
 ]
