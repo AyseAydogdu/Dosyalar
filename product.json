@@ -3,7 +3,7 @@
       "id": 1,
       "categoryId": 2,
       "productName": "Defter",
-      "imageUrl":"",
+      "imageUrl":"images/defter.jpg",
       "unitPrice": "8"
       
     },
@@ -11,17 +11,42 @@
       "id": 2,
       "categoryId": 1,
       "productName": "Cilek",
-      "imageUrl":"",
-      "unitPrice": "4"
+      "imageUrl":"images/cilek.jpg",
+      "unitPrice": "6"
       
     },
     {
       "id": 3,
       "categoryId": 3,
       "productName": "Kulaklik",
-      "imageUrl":"",
+      "imageUrl":"images/kulaklik.jpg",
       "unitPrice": "25"
       
     }
+  {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Elma",
+      "imageUrl":"images/elma.jpg",
+      "unitPrice": "3"
+      
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Kalem",
+      "imageUrl":"images/kalem.jpg",
+      "unitPrice": "7"
+      
+    },
+    {
+      "id": 6,
+      "categoryId": 3,
+      "productName": "Saat",
+      "imageUrl":"images/saat.jpg",
+      "unitPrice": "45"
+      
+    }
+    
     
   ]
