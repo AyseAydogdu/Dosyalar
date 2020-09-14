@@ -22,8 +22,8 @@
       "imageUrl":"images/kulaklik.jpg",
       "unitPrice": "25"
       
-    }
-  {
+    },
+    {
       "id": 4,
       "categoryId": 1,
       "productName": "Elma",
