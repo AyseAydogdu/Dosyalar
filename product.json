@@ -4,6 +4,7 @@
       "categoryId": 2,
       "productName": "Defter",
       "imageUrl":"images/defter.jpg",
+      "description":"Kareli, 80 yaprak",
       "unitPrice": "8"
       
     },
@@ -12,6 +13,7 @@
       "categoryId": 1,
       "productName": "Cilek",
       "imageUrl":"images/cilek.jpg",
+      "description":"Mersin çileği",
       "unitPrice": "6"
       
     },
@@ -20,6 +22,7 @@
       "categoryId": 3,
       "productName": "Kulaklik",
       "imageUrl":"images/kulaklik.jpg",
+      "description":"Kulak içi bluetooth kulaklık",
       "unitPrice": "25"
       
     },
@@ -28,6 +31,7 @@
       "categoryId": 1,
       "productName": "Elma",
       "imageUrl":"images/elma.jpg",
+      "description":"Amasya elması",
       "unitPrice": "3"
       
     },
@@ -36,6 +40,7 @@
       "categoryId": 2,
       "productName": "Kalem",
       "imageUrl":"images/kalem.jpg",
+      "description":"Faber Castel 0,7 uçlu kalem",
       "unitPrice": "7"
       
     },
@@ -44,6 +49,7 @@
       "categoryId": 3,
       "productName": "Saat",
       "imageUrl":"images/saat.jpg",
+      "description":"Casio deri kordonlu saat",
       "unitPrice": "45"
       
     }
